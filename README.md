@@ -1,2 +1,2 @@
-# blueos
-An Artix based distro
+# Blue OS - An Artix Linux Based Distro
+Blue OS is a customizd Artix Linux based distro that is focused performance, staying away from systemd, and "bloat", and focuses on the "KISS principle".
